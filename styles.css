@@ -1,0 +1,53 @@
+*{
+	text-align: center;
+	margin: 0;
+	padding: 0;
+	box-sizing:border-box ;
+}
+.f h1{
+	font-size: 60px;
+	text-align: center;
+	color: white;
+}
+.f{
+	width: 420px;
+	height: 300px;
+	background-color: purple;
+	border-radius: 30px;
+}
+
+body{
+	display: flex;
+	justify-content: center;
+	background-image: url("images/bgimg.jpg");
+	align-items: center;
+	min-height: 100vh;
+}
+.ib{
+	font-size: 17px;
+	border-radius: 20px;
+	color: white;
+}
+.btn{
+	font-size:30px ;
+	background-color: purple;
+	border-color: ghostwhite;
+	color: white;
+	border-radius: 25px;
+	width: 100%;
+}
+.ib input{
+	height: 45px;
+	border-radius: 25px;
+	margin: 15px;
+	font-size: 18px;
+	background-color: purple;
+	color: white;
+	background:transparent;
+	border-color: white;
+	
+}
+
+.ib ::placeholder{
+	color: white;
+}
