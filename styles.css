@@ -57,3 +57,11 @@ input{
   border-color: rgb(255, 255, 119);
   background-color: wheat;
 }
+.footer{
+  position: absolute;
+  top: 130%;
+  background-color: rgb(27, 3, 3);
+  width: 100%;
+  color: antiquewhite;
+  text-align: center;
+}
