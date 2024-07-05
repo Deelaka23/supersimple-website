@@ -5,8 +5,7 @@
   height: 200px;
   font-size: 30px;
   font-family: 'Times New Roman', Times, serif;
-  max-height: 20%;
-  
+  max-height: 20%;
 }
 img{
   width: 100%;
@@ -22,10 +21,8 @@ img{
   left: 15%;
   background-color: white;
   width: 70%; 
-  min-width: 700px; 
- 
-}
-
+  min-width: 700px;  
+}
 body{
   background-color: white;
 }
@@ -36,8 +33,7 @@ body{
   font-size: 30px;
   color: antiquewhite;
   margin: 5px;
-  min-width: 8%;
-  
+  min-width: 8%;
 }
 .btn{
   position: absolute;
@@ -64,4 +60,4 @@ input{
   width: 100%;
   color: antiquewhite;
   text-align: center;
-}
+}
